@@ -1,6 +1,7 @@
 ---
 name: code-review
 description: "Review code for best practices, modularity, scalability, abstraction, test coverage, redundancy, hardcoded values, type safety, performance, naming, API design, async patterns, config/env sync, template consistency, and documentation alignment. Generates detailed report with issues and recommendations."
+origin: molecule-skill-code-review
 ---
 
 # Code Review
